@@ -1,6 +1,6 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushadige&layout=compact&langs_count=10&theme=radical" alt="kushadige" /></p>
+<p><img align="left" src="https://github-readme-stats-1snl.vercel.app/api/top-langs/?username=kushadige&layout=compact&langs_count=10&theme=radical" alt="kushadige" /></p>
  
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushadige&show_icons=true&theme=radical" alt="kushadige" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="github-readme-stats-1snl.vercel.app/api?username=kushadige&show_icons=true&theme=radical" alt="kushadige" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushadige&" alt="kushadige" /></p>
 
